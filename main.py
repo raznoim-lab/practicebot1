@@ -9,7 +9,7 @@ from aiogram.filters import CommandStart
 from words import english_words, german_words
 import database as db
 
-TOKEN = "8396555650:AAGCRC4aiW56hEmTO6hKBqH-cMlvDtKT--s"
+TOKEN = "I'm not gonna publish it:)"
 
 # ---------- ДАНІ ----------
 correct_answers = {}
